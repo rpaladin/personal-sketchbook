@@ -6,6 +6,7 @@
     <a href="#blender">Blender</a>
     <ul>
       <li><a href="#blender---cycles">Blender - Cycles</a></li>
+      <li><a href="#blender---internal">Blender - Internal</a></li>
     </ul>
   </li>
   <!-- Godot --->
@@ -15,14 +16,22 @@
       <li><a href="#godot---last-man-fighting">Godot - Last Man Fighting</a></li>
     </ul>
   </li>
-  <!-- UPBGE --->
+  <!-- Blender Game Engine --->
   <li>
-    <a href="#upbge">UPBGE</a>
+    <a href="#blender-game-engine">Blender Game Engine</a>
     <ul>
       <li><a href="#upbge---02x">UPBGE - 0.2x</a></li>
-      <ul>
-        <li><a href="#wisdom-within">Wisdom Within</a></li>
-      </ul>
+      <li><a href="#bge">BGE</a></li>
+        <ul>
+          <li><a href="#wisdom-within">Wisdom Within</a></li>
+        </ul>
+    </ul>
+  </li>
+  <!-- PlayCanvas --->
+  <li>
+    <a href="#godot">PlayCanvas</a>
+    <ul>
+      <li><a href="#playcanvas---last-man-fighting">PlayCanvas - Last Man Fighting</a></li>
     </ul>
   </li>
   <!-- AssaultCube --->
@@ -84,11 +93,11 @@
   <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/godot/godot_lmf_green_demo.png" />
 </details>
 
-<!-- UPBGE --->
+<!-- Blender Game Engine --->
 
-<h1>UPBGE</h1>
+<h1>Blender Game Engine</h1>
 
-<h2>UPBGE - 0.2x</h2>
+<h2>BGE</h2>
 
 <h3>Wisdom Within</h3>
 
