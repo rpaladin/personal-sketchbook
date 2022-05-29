@@ -1,5 +1,21 @@
 # Personal Sketchbook For RPaladin
 
+# Blender
+
+## Cycles
+
+<details open>
+  <summary><code><b>cycles_funny_face_x1.png</b></code></summary>
+  <br />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/cycles/cycles_funny_face_x1.png" />
+</details>
+
+<details open>
+  <summary><code><b>cycles_funny_face_x2.png</b></code></summary>
+  <br />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/cycles/cycles_funny_face_x2.png" />
+</details>
+
 # AssaultCube
 
 ## Mapmodels
