@@ -19,7 +19,8 @@
   <li>
     <a href="#assaultcube">AssaultCube</a>
     <ul>
-      <li><a href="#assaultcube---mapmodels">AssaultCube - Mods</a></li>
+      <li><a href="#assaultcube---spin-off-upbge-02x">AssaultCube - Spin Off</a></li>
+      <li><a href="#assaultcube---mapmodels">AssaultCube - Mapmodels</a></li>
       <li><a href="#assaultcube---fan-art">AssaultCube - Fan Art</a></li>
     </ul>
   </li>
@@ -84,6 +85,16 @@
 </details>
 
 <h1>AssaultCube</h1>
+
+<h2>AssaultCube - Spin Off (UPBGE 0.2x)</h2>
+
+<details open>
+  <summary><code><b>upbge_ac_demo.png</b></code></summary>
+  <br />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ac_demo.png" />
+</details>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BVp1-MDgJHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>AssaultCube - Mapmodels</h2>
 
