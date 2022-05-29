@@ -6,7 +6,7 @@
     <a href="#blender">Blender</a>
     <ul>
       <li><a href="#blender---cycles">Cycles</a></li>
-      <li><a href="#blender---internal">Internal</a></li>
+      <div><a href="#blender---internal">Internal</a></div>
     </ul>
   </li>
   <!-- Godot --->
@@ -25,9 +25,9 @@
   </li>
   <!-- PlayCanvas --->
   <li>
-    <a href="#godot">PlayCanvas</a>
+    <div href="#godot">PlayCanvas</div>
     <ul>
-      <li><a href="#playcanvas---last-man-fighting">Last Man Fighting</a></li>
+      <div>Last Man Fighting</div>
     </ul>
   </li>
   <!-- AssaultCube --->
@@ -100,37 +100,37 @@
 <details open>
   <summary><code><b>upbge_ww_showcase_x2.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_showcase_x2.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/upbge_ww_showcase_x2.png" />
 </details>
 
 <details open>
   <summary><code><b>upbge_ww_showcase_x1.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_showcase_x1.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/upbge_ww_showcase_x1.png" />
 </details>
 
 <details open>
   <summary><code><b>upbge_ww_character_misc.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_character_misc.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/upbge_ww_character_misc.png" />
 </details>
 
 <details open>
   <summary><code><b>upbge_ww_characters_misc.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_characters_misc.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/upbge_ww_characters_misc.png" />
 </details>
 
 <details open>
   <summary><code><b>upbge_ww_x1_blf.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_x1_blf.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/upbge_ww_x1_blf.png" />
 </details>
 
 <details open>
   <summary><code><b>upbge_ww_x1_misc.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_x1_misc.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/upbge_ww_x1_misc.png" />
 </details>
 
 <!-- AssaultCube --->
