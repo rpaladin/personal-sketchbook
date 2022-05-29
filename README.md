@@ -93,13 +93,13 @@
 </ul>
 
 <details open>
-  <summary><code><b>upbge_ac_demo.png</b></code></summary>
+  <summary><code><b>ac_in_upbge_demo.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ac_demo.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/assaultcube/ac_in_upbge_demo.png" />
 </details>
 
 <details open>
-  <summary><code><b>upbge_ac_demo.png</b></code></summary>
+  <summary><code><b>https://www.youtube.com/watch?v=BVp1-MDgJHI</b></code></summary>
   <br />
   <a href="https://www.youtube.com/watch?v=BVp1-MDgJHI">
     <img src="https://img.youtube.com/vi/BVp1-MDgJHI/0.jpg" />
