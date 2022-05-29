@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/cycles/cycles_funny_face_x2.png" />
 </details>
 
-<h2>AssaultCube</h2>
+<h1>AssaultCube</h1>
 
 <h2>Mapmodels</h2>
 
