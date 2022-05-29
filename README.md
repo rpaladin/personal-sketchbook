@@ -11,6 +11,9 @@
     <a href="#upbge">UPBGE</a>
     <ul>
       <li><a href="#upbge---02x">UPBGE - 0.2x</a></li>
+      <ul>
+        <li><a href="#wisdom-within">Wisdom Within</a></li>
+      </ul>
     </ul>
   </li>
   <li>
@@ -42,16 +45,42 @@
 
 <h2>UPBGE - 0.2x</h2>
 
+<h3>Wisdom Within</h3>
+
 <details open>
-  <summary><code><b>upbge_ww_showcase_x2.png</b></code></summary>
+  <summary><code><b>upbge_ww_showcase_x1.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_showcase_x2.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_showcase_x1.png" />
 </details>
 
 <details open>
   <summary><code><b>upbge_ww_showcase_x1.png</b></code></summary>
   <br />
   <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_showcase_x1.png" />
+</details>
+
+<details open>
+  <summary><code><b>upbge_ww_character_misc.png</b></code></summary>
+  <br />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_character_misc.png" />
+</details>
+
+<details open>
+  <summary><code><b>upbge_ww_characters_misc.png</b></code></summary>
+  <br />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_characters_misc.png" />
+</details>
+
+<details open>
+  <summary><code><b>upbge_ww_x1_blf.png</b></code></summary>
+  <br />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_x1_blf.png" />
+</details>
+
+<details open>
+  <summary><code><b>upbge_ww_x1_misc.png</b></code></summary>
+  <br />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_x1_misc.png" />
 </details>
 
 <h1>AssaultCube</h1>
