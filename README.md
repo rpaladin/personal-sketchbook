@@ -124,13 +124,13 @@
 <details open>
   <summary><code><b>upbge_ww_x1_blf.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/upbge_ww_x1_blf.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/bge_ww_x1_blf.png" />
 </details>
 
 <details open>
   <summary><code><b>upbge_ww_x1_misc.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/upbge_ww_x1_misc.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/blender-game-engine/bge_ww_x1_misc.png" />
 </details>
 
 <!-- AssaultCube --->
