@@ -49,9 +49,9 @@
 <h3>Wisdom Within</h3>
 
 <details open>
-  <summary><code><b>upbge_ww_showcase_x1.png</b></code></summary>
+  <summary><code><b>upbge_ww_showcase_x2.png</b></code></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_showcase_x1.png" />
+  <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ww_showcase_x2.png" />
 </details>
 
 <details open>
@@ -88,13 +88,23 @@
 
 <h2>AssaultCube - Spin Off (UPBGE 0.2x)</h2>
 
+<ul>
+  <li>⬇️ CLICK ON IMAGE BELOW FOR VIDEO LINK ⬇️ (iframes don't work on this platform)</li>
+</ul>
+
 <details open>
   <summary><code><b>upbge_ac_demo.png</b></code></summary>
   <br />
   <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/upbge/upbge_ac_demo.png" />
 </details>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BVp1-MDgJHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details open>
+  <summary><code><b>upbge_ac_demo.png</b></code></summary>
+  <br />
+  <a href="https://www.youtube.com/watch?v=BVp1-MDgJHI">
+    <img src="https://img.youtube.com/vi/BVp1-MDgJHI/0.jpg" />
+  </a>
+</details>
 
 <h2>AssaultCube - Mapmodels</h2>
 
