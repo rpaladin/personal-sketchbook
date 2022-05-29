@@ -1,8 +1,8 @@
-# Personal Sketchbook For RPaladin
+<h1>Personal Sketchbook For RPaladin</h1>
 
-# Blender
+<h1>Blender</h1>
 
-## Cycles
+<h2>Cycles</h2>
 
 <details open>
   <summary><code><b>cycles_funny_face_x1.png</b></code></summary>
@@ -16,9 +16,9 @@
   <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/cycles/cycles_funny_face_x2.png" />
 </details>
 
-# AssaultCube
+<h2>AssaultCube</h2>
 
-## Mapmodels
+<h2>Mapmodels</h2>
 
 <details open>
   <summary><code><b>ac_mod_ana_and_jah.png</b></code></summary>
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/rpaladin/personal-sketchbook/main/images/assaultcube/ac_mod_misc.png" />
 </details>
 
-## Fan Art
+<h2>Fan Art</h2>
 
 <details open>
   <summary><code><b>ac_logo_x2.png</b></code></summary>
