@@ -1,13 +1,25 @@
 <h1>Table of Contents</h1>
 
 <ul>
-  <li><a href="#blender">Blender</a></li>
-  <li><a href="#blender---cycles">Blender - Cycles</a></li>
-  <li><a href="#upbge">UPBGE</a></li>
-  <li><a href="#upbge---02x">UPBGE - 0.2x</a></li>
-  <li><a href="#assaultcube">AssaultCube</a></li>
-  <li><a href="#assaultcube---mapmodels">AssaultCube - Mods</a></li>
-  <li><a href="#assaultcube---fan-art">AssaultCube - Fan Art</a></li>
+  <li>
+    <a href="#blender">Blender</a>
+    <ul>
+      <li><a href="#blender---cycles">Blender - Cycles</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#upbge">UPBGE</a>
+    <ul>
+      <li><a href="#upbge---02x">UPBGE - 0.2x</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#assaultcube">AssaultCube</a>
+    <ul>
+      <li><a href="#assaultcube---mapmodels">AssaultCube - Mods</a></li>
+      <li><a href="#assaultcube---fan-art">AssaultCube - Fan Art</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h1>Blender</h1>
