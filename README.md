@@ -5,42 +5,38 @@
   <li>
     <a href="#blender">Blender</a>
     <ul>
-      <li><a href="#blender---cycles">Blender - Cycles</a></li>
-      <li><a href="#blender---internal">Blender - Internal</a></li>
+      <li><a href="#blender---cycles">Cycles</a></li>
+      <li><a href="#blender---internal">Internal</a></li>
     </ul>
   </li>
   <!-- Godot --->
   <li>
     <a href="#godot">Godot</a>
     <ul>
-      <li><a href="#godot---last-man-fighting">Godot - Last Man Fighting</a></li>
+      <li><a href="#godot---last-man-fighting">Last Man Fighting</a></li>
     </ul>
   </li>
   <!-- Blender Game Engine --->
   <li>
     <a href="#blender-game-engine">Blender Game Engine</a>
     <ul>
-      <li><a href="#upbge---02x">UPBGE - 0.2x</a></li>
-      <li><a href="#bge">BGE</a></li>
-        <ul>
-          <li><a href="#wisdom-within">Wisdom Within</a></li>
-        </ul>
+      <li><a href="#wisdom-within">Wisdom Within</a></li>
     </ul>
   </li>
   <!-- PlayCanvas --->
   <li>
     <a href="#godot">PlayCanvas</a>
     <ul>
-      <li><a href="#playcanvas---last-man-fighting">PlayCanvas - Last Man Fighting</a></li>
+      <li><a href="#playcanvas---last-man-fighting">Last Man Fighting</a></li>
     </ul>
   </li>
   <!-- AssaultCube --->
   <li>
     <a href="#assaultcube">AssaultCube</a>
     <ul>
-      <li><a href="#assaultcube---spin-off-upbge-02x">AssaultCube - Spin Off</a></li>
-      <li><a href="#assaultcube---mapmodels">AssaultCube - Mapmodels</a></li>
-      <li><a href="#assaultcube---fan-art">AssaultCube - Fan Art</a></li>
+      <li><a href="#assaultcube---upbge-mod">UPBGE Mod</a></li>
+      <li><a href="#assaultcube---mapmodels">Mapmodels</a></li>
+      <li><a href="#assaultcube---fan-art">Fan Art</a></li>
     </ul>
   </li>
 </ul>
@@ -141,7 +137,7 @@
 
 <h1>AssaultCube</h1>
 
-<h2>AssaultCube - Spin Off (UPBGE 0.2x)</h2>
+<h2>AssaultCube - UPBGE Mod</h2>
 
 <ul>
   <li>⬇️ CLICK ON IMAGE BELOW FOR VIDEO LINK ⬇️ (iframes don't work on this platform)</li>
